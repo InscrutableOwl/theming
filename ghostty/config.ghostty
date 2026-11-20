@@ -1,0 +1,8 @@
+font-family = JetBrainsMono Nerd Font Mono
+font-size = 14
+background-opacity = 0.8
+theme = Dracula+
+#theme = Gruvbox Dark Hard
+#theme = Everforest Dark Hard
+window-height = 35
+window-width = 130
