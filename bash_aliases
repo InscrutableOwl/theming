@@ -16,3 +16,7 @@ alias .....='cd ../../../..'
 alias ......='cd ../../../../..'
 alias dir='dir --color=auto'
 alias grep='grep --color=auto'
+
+# installation
+
+alias inst='sudo nala install' # use nala for installation debian based only
